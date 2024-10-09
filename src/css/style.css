@@ -33,3 +33,10 @@ main{
     background-color: darksalmon;
     flex-grow: 1;
 }
+
+footer {
+    padding: 1rem;
+    background-color:lightpink;
+    color: darkslateblue;
+    text-align: center;
+}
