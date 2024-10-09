@@ -1,0 +1,17 @@
+.header__navbar {
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    background-color: burlywood;
+    
+
+    padding: 2rem;
+}
+
+.header__navbar li {
+    list-style: none;
+}
+
+a  {
+    color: royalblue;
+}
